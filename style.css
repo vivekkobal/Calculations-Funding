@@ -585,14 +585,14 @@ background-image: linear-gradient(to right, #8f65f6, #17cdf7);
     font-weight: 600;
     letter-spacing: 1px;
     color: #000;
-    background: #ffef09;
+    background: #00afef;
     border-radius: 0;
     transition: .3s;
 }
 
 .contact-form .btn:hover {
     color: #050505;
-    background: #15e7ab;
+    background: linear-gradient(to right, #8f65f6, #17cdf7);
 }
 
 .help-block ul {
@@ -1048,12 +1048,11 @@ ul {
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid rgba(0, 0, 0, .1);
 }
 
 .contact .contact-icon i {
     font-size: 18px;
-    color: #ffd506;
+    color: #00afef;
 }
 
 .contact .contact-text {
